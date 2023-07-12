@@ -1,0 +1,7 @@
+v 4
+file . "bin2dec_tb.vhdl" "90bc1d10b55aa2efd5efd09961622f76926d9cdf" "20230712111222.567":
+  entity binary_to_decimal_decoder_tb at 1( 0) + 0 on 29;
+  architecture bin2dec_tb_flow_tb of binary_to_decimal_decoder_tb at 7( 96) + 0 on 30;
+file . "bin2dec.vhdl" "4c3e1eb4c38b4f1f827c1ba705327e569fb485e0" "20230712111214.520":
+  entity binary_to_decimal_decoder at 1( 0) + 0 on 27;
+  architecture b2d_structure of binary_to_decimal_decoder at 11( 217) + 0 on 28;

@@ -1,0 +1,47 @@
+$date
+  Wed Jul 12 19:12:25 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module binary_to_decimal_decoder_tb $end
+$var reg 4 ! bin_input[3:0] $end
+$var reg 10 " dec_output[9:0] $end
+$scope module pm $end
+$var reg 4 # input[3:0] $end
+$var reg 10 $ output[9:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b0000000001 "
+b0000 #
+b0000000001 $
+#1000000
+b0010 !
+b0000000100 "
+b0010 #
+b0000000100 $
+#2000000
+b1000 !
+b0100000000 "
+b1000 #
+b0100000000 $
+#3000000
+b1111 !
+b0000000000 "
+b1111 #
+b0000000000 $
+#5000000
+b0101 !
+b0000100000 "
+b0101 #
+b0000100000 $
