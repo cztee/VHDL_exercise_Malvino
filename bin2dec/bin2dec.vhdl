@@ -24,3 +24,5 @@ architecture b2d_structure of binary_to_decimal_decoder is
         output(9) <=     input(3) and not input(2) and not input(1) and     input(0);
 
 end architecture;
+
+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
